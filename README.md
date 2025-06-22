@@ -1,1 +1,1 @@
-# SprintUp---AI-and-Machine-Learning-Foundations
+# SprintUp - AI and Machine Learning Foundations
